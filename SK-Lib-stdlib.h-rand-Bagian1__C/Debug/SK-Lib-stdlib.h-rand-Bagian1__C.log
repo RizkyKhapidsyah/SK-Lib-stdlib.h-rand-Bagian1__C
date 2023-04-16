@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdlib.h-rand-Bagian1__C\SK-Lib-stdlib.h-rand-Bagian1__C\Source.c(18,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SK-Lib-stdlib.h-rand-Bagian1__C.vcxproj -> D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdlib.h-rand-Bagian1__C\Debug\SK-Lib-stdlib.h-rand-Bagian1__C.exe
